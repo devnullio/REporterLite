@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ReporterLite
+## Notes: Backport of the battleground addon called REporter.
+## Author: Unholyo
+## Version: 3.0
+
+ReporterLite.lua
